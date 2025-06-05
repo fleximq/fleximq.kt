@@ -1,4 +1,4 @@
-package io.github.fleximq
+package io.github.fleximq.transport
 
 import kotlinx.coroutines.channels.SendChannel
 import kotlinx.coroutines.flow.Flow
